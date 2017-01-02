@@ -1,0 +1,21 @@
+{
+  "name": "drum-kit",
+  "homepage": "https://github.com/mknutgit/Drum-Kit",
+  "authors": [
+    "Matt <mknut001@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
